@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<festival2DAM>
+  <track>
+    <TrackURI>spotify:track:2DlHlPMa4M17kufBvI2lEN</TrackURI>
+    <TrackName>Chop Suey!</TrackName>
+    <ArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</ArtistURIs>
+    <ArtistNames>System Of A Down</ArtistNames>
+    <AlbumURI>spotify:album:6jWde94ln40epKIQCd8XUh</AlbumURI>
+    <AlbumName>Toxicity</AlbumName>
+    <AlbumArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</AlbumArtistURIs>
+    <AlbumArtistNames>System Of A Down</AlbumArtistNames>
+    <AlbumReleaseDate>2001-09-04</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>6</TrackNumber>
+    <TrackDuration>210240</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/cd2a1f9fd7619bdae4e2e718b11d5bb054a3d677?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>80</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:46:00Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0snQkGI5qnAmohLE7jTsTn</TrackURI>
+    <TrackName>Toxicity</TrackName>
+    <ArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</ArtistURIs>
+    <ArtistNames>System Of A Down</ArtistNames>
+    <AlbumURI>spotify:album:6jWde94ln40epKIQCd8XUh</AlbumURI>
+    <AlbumName>Toxicity</AlbumName>
+    <AlbumArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</AlbumArtistURIs>
+    <AlbumArtistNames>System Of A Down</AlbumArtistNames>
+    <AlbumReleaseDate>2001-09-04</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>12</TrackNumber>
+    <TrackDuration>218933</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/89e93c71655e81579d011e4521f7b6e9db173834?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>78</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:46:00Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0EYOdF5FCkgOJJla8DI2Md</TrackURI>
+    <TrackName>B.Y.O.B.</TrackName>
+    <ArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</ArtistURIs>
+    <ArtistNames>System Of A Down</ArtistNames>
+    <AlbumURI>spotify:album:0cn6MHyx4YuZauaB7Pb66o</AlbumURI>
+    <AlbumName>Mezmerize</AlbumName>
+    <AlbumArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</AlbumArtistURIs>
+    <AlbumArtistNames>System Of A Down</AlbumArtistNames>
+    <AlbumReleaseDate>2005-05-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>255466</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/2f373f029e1110b19c265b8f4bc4d265e5fa9539?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>75</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:46:00Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:4e9eGQYsOiBcftrWXwsVco</TrackURI>
+    <TrackName>Aerials</TrackName>
+    <ArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</ArtistURIs>
+    <ArtistNames>System Of A Down</ArtistNames>
+    <AlbumURI>spotify:album:6jWde94ln40epKIQCd8XUh</AlbumURI>
+    <AlbumName>Toxicity</AlbumName>
+    <AlbumArtistURIs>spotify:artist:5eAWCfyUhZtHHtBdNk56l1</AlbumArtistURIs>
+    <AlbumArtistNames>System Of A Down</AlbumArtistNames>
+    <AlbumReleaseDate>2001-09-04</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>14</TrackNumber>
+    <TrackDuration>235053</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/17c08cf40c2f21a4b3e65fd092749a3e35e59b68?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>74</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:46:00Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:2bPGTMB5sFfFYQ2YvSmup0</TrackURI>
+    <TrackName>DEUTSCHLAND</TrackName>
+    <ArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</ArtistURIs>
+    <ArtistNames>Rammstein</ArtistNames>
+    <AlbumURI>spotify:album:1LoyJQVHPLHE3fCCS8Juek</AlbumURI>
+    <AlbumName>RAMMSTEIN</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</AlbumArtistURIs>
+    <AlbumArtistNames>Rammstein</AlbumArtistNames>
+    <AlbumReleaseDate>2019-05-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27302add2c77fb6999e311a3248</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>322339</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/a16ac8b56d54533f3b848ed8c29df1a90828e534?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>73</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:5awDvzxWfd53SSrsRZ8pXO</TrackURI>
+    <TrackName>Du hast</TrackName>
+    <ArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</ArtistURIs>
+    <ArtistNames>Rammstein</ArtistNames>
+    <AlbumURI>spotify:album:2w6Vy8qZLU4niyQAHyu0Ag</AlbumURI>
+    <AlbumName>Sehnsucht</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</AlbumArtistURIs>
+    <AlbumArtistNames>Rammstein</AlbumArtistNames>
+    <AlbumReleaseDate>1997-08-25</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273a715d32590424cd667879ba3</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>234226</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/19a847d1721e49f4806358cd27c7bb013054a12d?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>72</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:3gVhsZtseYtY1fMuyYq06F</TrackURI>
+    <TrackName>Sonne</TrackName>
+    <ArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</ArtistURIs>
+    <ArtistNames>Rammstein</ArtistNames>
+    <AlbumURI>spotify:album:1CtTTpKbHU8KbHRB4LmBbv</AlbumURI>
+    <AlbumName>Mutter</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</AlbumArtistURIs>
+    <AlbumArtistNames>Rammstein</AlbumArtistNames>
+    <AlbumReleaseDate>2001-04-02</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2738b2c42026277efc3e058855b</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>3</TrackNumber>
+    <TrackDuration>272440</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/75f5361f7540deadf5207d673af34afdc7dd6461?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>70</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7j43FohbLVulScL7S9sQZk</TrackURI>
+    <TrackName>AUSLÄNDER</TrackName>
+    <ArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</ArtistURIs>
+    <ArtistNames>Rammstein</ArtistNames>
+    <AlbumURI>spotify:album:1LoyJQVHPLHE3fCCS8Juek</AlbumURI>
+    <AlbumName>RAMMSTEIN</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</AlbumArtistURIs>
+    <AlbumArtistNames>Rammstein</AlbumArtistNames>
+    <AlbumReleaseDate>2019-05-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27302add2c77fb6999e311a3248</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>4</TrackNumber>
+    <TrackDuration>231603</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/e35e62a43fd76f54c9ee05f769721c8fc3afa10f?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>69</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0xrkyEMkG4dVa5OMLQZOX8</TrackURI>
+    <TrackName>Engel</TrackName>
+    <ArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</ArtistURIs>
+    <ArtistNames>Rammstein</ArtistNames>
+    <AlbumURI>spotify:album:2w6Vy8qZLU4niyQAHyu0Ag</AlbumURI>
+    <AlbumName>Sehnsucht</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</AlbumArtistURIs>
+    <AlbumArtistNames>Rammstein</AlbumArtistNames>
+    <AlbumReleaseDate>1997-08-25</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273a715d32590424cd667879ba3</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>264266</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/4635be34482d29364b485494afc801c4fee96992?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>69</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:3yfqSUWxFvZELEM4PmlwIR</TrackURI>
+    <TrackName>The Real Slim Shady</TrackName>
+    <ArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</ArtistURIs>
+    <ArtistNames>Eminem</ArtistNames>
+    <AlbumURI>spotify:album:6t7956yu5zYf5A829XRiHC</AlbumURI>
+    <AlbumName>The Marshall Mathers LP</AlbumName>
+    <AlbumArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</AlbumArtistURIs>
+    <AlbumArtistNames>Eminem</AlbumArtistNames>
+    <AlbumReleaseDate>2000-05-23</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>8</TrackNumber>
+    <TrackDuration>284200</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/3a9d7d29ed87152524ac6023177985b5f9023c63?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>85</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:15Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7lQ8MOhq6IN2w8EYcFNSUk</TrackURI>
+    <TrackName>Without Me</TrackName>
+    <ArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</ArtistURIs>
+    <ArtistNames>Eminem</ArtistNames>
+    <AlbumURI>spotify:album:2cWBwpqMsDJC1ZUwz813lo</AlbumURI>
+    <AlbumName>The Eminem Show</AlbumName>
+    <AlbumArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</AlbumArtistURIs>
+    <AlbumArtistNames>Eminem</AlbumArtistNames>
+    <AlbumReleaseDate>2002-05-26</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>10</TrackNumber>
+    <TrackDuration>290320</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/9aed324f09bb71798f1f094305d2adebcbcd91b8?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>85</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:15Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:4xkOaSrkexMciUUogZKVTS</TrackURI>
+    <TrackName>&apos;Till I Collapse</TrackName>
+    <ArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR, spotify:artist:1Oa0bMld0A3u5OTYfMzp5h</ArtistURIs>
+    <ArtistNames>Eminem, Nate Dogg</ArtistNames>
+    <AlbumURI>spotify:album:2cWBwpqMsDJC1ZUwz813lo</AlbumURI>
+    <AlbumName>The Eminem Show</AlbumName>
+    <AlbumArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</AlbumArtistURIs>
+    <AlbumArtistNames>Eminem</AlbumArtistNames>
+    <AlbumReleaseDate>2002-05-26</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>18</TrackNumber>
+    <TrackDuration>297786</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/e187a68b2932880bfe9586d4f4a809d7b50f38ea?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>85</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:15Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:5W8HXMOMLtXLz0RGKUtnlZ</TrackURI>
+    <TrackName>Last One Standing (feat. Polo G, Mozzy &amp; Eminem) - From Venom: Let There Be Carnage</TrackName>
+    <ArtistURIs>spotify:artist:4utLUGcTvOJFr6aqIJtYWV, spotify:artist:6AgTAQt8XS6jRWi4sX7w49, spotify:artist:4AA474G2hRfrHyGrfyDseO, spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</ArtistURIs>
+    <ArtistNames>Skylar Grey, Polo G, Mozzy, Eminem</ArtistNames>
+    <AlbumURI>spotify:album:2ZaFqYD9a3U6qJhyS2LDRf</AlbumURI>
+    <AlbumName>Last One Standing (feat. Polo G, Mozzy &amp; Eminem) [From Venom: Let There Be Carnage]</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4utLUGcTvOJFr6aqIJtYWV, spotify:artist:6AgTAQt8XS6jRWi4sX7w49, spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</AlbumArtistURIs>
+    <AlbumArtistNames>Skylar Grey, Polo G, Eminem</AlbumArtistNames>
+    <AlbumReleaseDate>2021-09-30</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27318b2c39fa740e2822d40d65b</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>257368</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/1b73b4212be4f2003e62cb6e17a9bb8c54705c79?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>83</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:15Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7FIWs0pqAYbP91WWM0vlTQ</TrackURI>
+    <TrackName>Godzilla (feat. Juice WRLD)</TrackName>
+    <ArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR, spotify:artist:4MCBfE4596Uoi2O4DtmEMz</ArtistURIs>
+    <ArtistNames>Eminem, Juice WRLD</ArtistNames>
+    <AlbumURI>spotify:album:4otkd9As6YaxxEkIjXPiZ6</AlbumURI>
+    <AlbumName>Music To Be Murdered By</AlbumName>
+    <AlbumArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</AlbumArtistURIs>
+    <AlbumArtistNames>Eminem</AlbumArtistNames>
+    <AlbumReleaseDate>2020-01-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>7</TrackNumber>
+    <TrackDuration>210800</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/f2163fa560d312d29a7cc37c0b71fb439960514d?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>84</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:15Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7kXmJwrZGIhDaLT9sNo3ut</TrackURI>
+    <TrackName>Hey Boy Hey Girl</TrackName>
+    <ArtistURIs>spotify:artist:1GhPHrq36VKCY3ucVaZCfo</ArtistURIs>
+    <ArtistNames>The Chemical Brothers</ArtistNames>
+    <AlbumURI>spotify:album:1QJP73UumgERuzp3yJSXw3</AlbumURI>
+    <AlbumName>Surrender</AlbumName>
+    <AlbumArtistURIs>spotify:artist:1GhPHrq36VKCY3ucVaZCfo</AlbumArtistURIs>
+    <AlbumArtistNames>The Chemical Brothers</AlbumArtistNames>
+    <AlbumReleaseDate>1999-01-01</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>9</TrackNumber>
+    <TrackDuration>290493</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/d5d192c719444941253ac13d7133594f558eaf77?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>65</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:4bz7uB4edifWKJXSDxwHcs</TrackURI>
+    <TrackName>Galvanize</TrackName>
+    <ArtistURIs>spotify:artist:1GhPHrq36VKCY3ucVaZCfo</ArtistURIs>
+    <ArtistNames>The Chemical Brothers</ArtistNames>
+    <AlbumURI>spotify:album:715rku55lldqdw9WiEuPgi</AlbumURI>
+    <AlbumName>Push The Button</AlbumName>
+    <AlbumArtistURIs>spotify:artist:1GhPHrq36VKCY3ucVaZCfo</AlbumArtistURIs>
+    <AlbumArtistNames>The Chemical Brothers</AlbumArtistNames>
+    <AlbumReleaseDate>2005-01-01</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>393813</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/d011972cf6178aebd797ce3271807ec21271860d?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>64</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:2cNjgoSh1TBHFQIhfzRJUE</TrackURI>
+    <TrackName>Go</TrackName>
+    <ArtistURIs>spotify:artist:1GhPHrq36VKCY3ucVaZCfo</ArtistURIs>
+    <ArtistNames>The Chemical Brothers</ArtistNames>
+    <AlbumURI>spotify:album:36E5LAM5D3AKnVx8s5dyc6</AlbumURI>
+    <AlbumName>Born In The Echoes</AlbumName>
+    <AlbumArtistURIs>spotify:artist:1GhPHrq36VKCY3ucVaZCfo</AlbumArtistURIs>
+    <AlbumArtistNames>The Chemical Brothers</AlbumArtistNames>
+    <AlbumReleaseDate>2015-07-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273befecaa2c30a3302c88cbe88</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>260696</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/2865d2d86f6ae237fcdeb8a54aeb9d73347d66f0?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>59</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:1BrgjqSg9du0lj3TUMLluL</TrackURI>
+    <TrackName>To Hell and Back</TrackName>
+    <ArtistURIs>spotify:artist:3o2dn2O0FCVsWDFSh8qxgG</ArtistURIs>
+    <ArtistNames>Sabaton</ArtistNames>
+    <AlbumURI>spotify:album:5TdhTTvwtD0ekZBYve97r7</AlbumURI>
+    <AlbumName>Heroes</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3o2dn2O0FCVsWDFSh8qxgG</AlbumArtistURIs>
+    <AlbumArtistNames>Sabaton</AlbumArtistNames>
+    <AlbumReleaseDate>2014-05-16</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273735eecca68d3bb03e2e35a75</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>206546</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/c3129e4506ac62a18f6edc4c2b30dea1dc870954?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>68</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:33Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0bUgTRe5st6TMbRCEjKezX</TrackURI>
+    <TrackName>The Last Stand</TrackName>
+    <ArtistURIs>spotify:artist:3o2dn2O0FCVsWDFSh8qxgG</ArtistURIs>
+    <ArtistNames>Sabaton</ArtistNames>
+    <AlbumURI>spotify:album:14OgR04PHXULz1svvsol8L</AlbumURI>
+    <AlbumName>The Last Stand</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3o2dn2O0FCVsWDFSh8qxgG</AlbumArtistURIs>
+    <AlbumArtistNames>Sabaton</AlbumArtistNames>
+    <AlbumReleaseDate>2016-08-19</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2730c100c40bdedea776770e7aa</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>7</TrackNumber>
+    <TrackDuration>235840</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/642e49bb4c042f4d03e66867d7361acf7856fff9?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>67</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:33Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:3sXsIBIFutSSMc2V4WCknY</TrackURI>
+    <TrackName>Steel Commanders</TrackName>
+    <ArtistURIs>spotify:artist:3o2dn2O0FCVsWDFSh8qxgG, spotify:artist:46T4yCHjQfVxokuATj1SiV</ArtistURIs>
+    <ArtistNames>Sabaton, Tina Guo</ArtistNames>
+    <AlbumURI>spotify:album:5ywV3UAQKe40HxhebYAAAd</AlbumURI>
+    <AlbumName>Steel Commanders</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3o2dn2O0FCVsWDFSh8qxgG</AlbumArtistURIs>
+    <AlbumArtistNames>Sabaton</AlbumArtistNames>
+    <AlbumReleaseDate>2021-09-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273f18b2de859acce7744779432</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>231000</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/7c399ae0520dc4019c0d5cb4f7de17357c9b11c7?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>65</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:33Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:65hRZOQkVjmBdusz1N7aOv</TrackURI>
+    <TrackName>Save The World</TrackName>
+    <ArtistURIs>spotify:artist:1h6Cn3P4NGzXbaXidqURXs</ArtistURIs>
+    <ArtistNames>Swedish House Mafia</ArtistNames>
+    <AlbumURI>spotify:album:728voOLBbJUBgK2vooghcS</AlbumURI>
+    <AlbumName>Save The World</AlbumName>
+    <AlbumArtistURIs>spotify:artist:1h6Cn3P4NGzXbaXidqURXs</AlbumArtistURIs>
+    <AlbumArtistNames>Swedish House Mafia</AlbumArtistNames>
+    <AlbumReleaseDate>2011-05-13</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27395696945285b5f317c6f8445</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>213337</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/6ad3d06de6a1daa3b083c9631caa758973f606aa?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>67</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:56:40Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7t5cpmhVd9gHNcDLZh9Wws</TrackURI>
+    <TrackName>The Hum</TrackName>
+    <ArtistURIs>spotify:artist:73jBynjsVtofjRpdpRAJGk, spotify:artist:7e1BNCygl2Gf7CX8LrByPv</ArtistURIs>
+    <ArtistNames>Dimitri Vegas &amp; Like Mike, Ummet Ozcan</ArtistNames>
+    <AlbumURI>spotify:album:2sGO6r3FkhQLOj0L0WW7Yg</AlbumURI>
+    <AlbumName>The Hum</AlbumName>
+    <AlbumArtistURIs>spotify:artist:73jBynjsVtofjRpdpRAJGk, spotify:artist:7e1BNCygl2Gf7CX8LrByPv</AlbumArtistURIs>
+    <AlbumArtistNames>Dimitri Vegas &amp; Like Mike, Ummet Ozcan</AlbumArtistNames>
+    <AlbumReleaseDate>2015-06-08</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27373ea84a005873ec08902ae0c</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>356075</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/79e7bcbe6b6d7b5a4f278acdc95211ac5a3dea9e?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>34</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:57:57Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:37Tmv4NnfQeb0ZgUC4fOJj</TrackURI>
+    <TrackName>Sultans Of Swing</TrackName>
+    <ArtistURIs>spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T</ArtistURIs>
+    <ArtistNames>Dire Straits</ArtistNames>
+    <AlbumURI>spotify:album:2rCS6Xwx32V27pvgFzLzlT</AlbumURI>
+    <AlbumName>Dire Straits</AlbumName>
+    <AlbumArtistURIs>spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T</AlbumArtistURIs>
+    <AlbumArtistNames>Dire Straits</AlbumArtistNames>
+    <AlbumReleaseDate>1978-10-07</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2739dfee5404d5e0763998c958e</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>6</TrackNumber>
+    <TrackDuration>348400</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/a00a90236f87d059c5a9ff481680a29f7a60e8bb?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>80</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:59:22Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:6HMFtoMvv6n6Q2eOyPFyne</TrackURI>
+    <TrackName>Walk Of Life</TrackName>
+    <ArtistURIs>spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T</ArtistURIs>
+    <ArtistNames>Dire Straits</ArtistNames>
+    <AlbumURI>spotify:album:0u7sgzvlLmPLvujXxy9EeY</AlbumURI>
+    <AlbumName>Brothers In Arms - 20th Anniversary Edition</AlbumName>
+    <AlbumArtistURIs>spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T</AlbumArtistURIs>
+    <AlbumArtistNames>Dire Straits</AlbumArtistNames>
+    <AlbumReleaseDate>1985-05-13</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273042dbf8721e37f11843bfeac</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>3</TrackNumber>
+    <TrackDuration>248893</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/4414cd943e7c730dc8b3aca2302cce55466a888d?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>72</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:59:22Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:4bO6DljpuAeQh6HS20i0I5</TrackURI>
+    <TrackName>Money For Nothing</TrackName>
+    <ArtistURIs>spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T</ArtistURIs>
+    <ArtistNames>Dire Straits</ArtistNames>
+    <AlbumURI>spotify:album:0u7sgzvlLmPLvujXxy9EeY</AlbumURI>
+    <AlbumName>Brothers In Arms - 20th Anniversary Edition</AlbumName>
+    <AlbumArtistURIs>spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T</AlbumArtistURIs>
+    <AlbumArtistNames>Dire Straits</AlbumArtistNames>
+    <AlbumReleaseDate>1985-05-13</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273042dbf8721e37f11843bfeac</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>504333</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/8a03dac76ad5ea6bd0682ebb067893ee4dd33c65?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>69</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T08:59:22Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:64BbK9SFKH2jk86U3dGj2P</TrackURI>
+    <TrackName>Otherside</TrackName>
+    <ArtistURIs>spotify:artist:0L8ExT028jH3ddEcZwqJJ5</ArtistURIs>
+    <ArtistNames>Red Hot Chili Peppers</ArtistNames>
+    <AlbumURI>spotify:album:2Y9IRtehByVkegoD7TcLfi</AlbumURI>
+    <AlbumName>Californication (Deluxe Edition)</AlbumName>
+    <AlbumArtistURIs>spotify:artist:0L8ExT028jH3ddEcZwqJJ5</AlbumArtistURIs>
+    <AlbumArtistNames>Red Hot Chili Peppers</AlbumArtistNames>
+    <AlbumReleaseDate>1999-06-08</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>4</TrackNumber>
+    <TrackDuration>255373</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/3dfe48540e8c8b3a4b3434837952a3aa5b9291e9?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>78</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:21:10Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:4Zc7TCHzuNwL0AFBlyLdyr</TrackURI>
+    <TrackName>Run to the Hills - 2015 Remaster</TrackName>
+    <ArtistURIs>spotify:artist:6mdiAmATAx73kdxrNrnlao</ArtistURIs>
+    <ArtistNames>Iron Maiden</ArtistNames>
+    <AlbumURI>spotify:album:5S3gls8Kjn8KVmqlIDEBbO</AlbumURI>
+    <AlbumName>The Number of the Beast (2015 Remaster)</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6mdiAmATAx73kdxrNrnlao</AlbumArtistURIs>
+    <AlbumArtistNames>Iron Maiden</AlbumArtistNames>
+    <AlbumReleaseDate>1982</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2735c29a88ba5341ca428f0c322</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>6</TrackNumber>
+    <TrackDuration>233506</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/66a6b7102df35ce9e83d29f8f5092ad529eaa14e?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>70</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:21:32Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:6p8eFfPw3nQkf37aT3AkmK</TrackURI>
+    <TrackName>Fear of the Dark - 2015 Remaster</TrackName>
+    <ArtistURIs>spotify:artist:6mdiAmATAx73kdxrNrnlao</ArtistURIs>
+    <ArtistNames>Iron Maiden</ArtistNames>
+    <AlbumURI>spotify:album:16Su3EUFLPqWVyrwN1q5wO</AlbumURI>
+    <AlbumName>Fear of the Dark (2015 Remaster)</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6mdiAmATAx73kdxrNrnlao</AlbumArtistURIs>
+    <AlbumArtistNames>Iron Maiden</AlbumArtistNames>
+    <AlbumReleaseDate>1992</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2730dda9c11454b9053d07f585a</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>12</TrackNumber>
+    <TrackDuration>438120</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/bb99e155bf752929a0d1339f84675f36ca9a10b2?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>70</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:21:32Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0DiWol3AO6WpXZgp0goxAV</TrackURI>
+    <TrackName>One More Time</TrackName>
+    <ArtistURIs>spotify:artist:4tZwfgrHOc3mvqYlEYSvVi</ArtistURIs>
+    <ArtistNames>Daft Punk</ArtistNames>
+    <AlbumURI>spotify:album:2noRn2Aes5aoNVsU6iWThc</AlbumURI>
+    <AlbumName>Discovery</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4tZwfgrHOc3mvqYlEYSvVi</AlbumArtistURIs>
+    <AlbumArtistNames>Daft Punk</AlbumArtistNames>
+    <AlbumReleaseDate>2001-03-12</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>320357</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/3ecb663d7dc9123a847a000e6febd6c852eeb994?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>76</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:22:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:2cGxRwrMyEAp8dEbuZaVv6</TrackURI>
+    <TrackName>Instant Crush (feat. Julian Casablancas)</TrackName>
+    <ArtistURIs>spotify:artist:4tZwfgrHOc3mvqYlEYSvVi, spotify:artist:1rAv1GhTQ2rmG94p9lU3rB</ArtistURIs>
+    <ArtistNames>Daft Punk, Julian Casablancas</ArtistNames>
+    <AlbumURI>spotify:album:4m2880jivSbbyEGAKfITCa</AlbumURI>
+    <AlbumName>Random Access Memories</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4tZwfgrHOc3mvqYlEYSvVi</AlbumArtistURIs>
+    <AlbumArtistNames>Daft Punk</AlbumArtistNames>
+    <AlbumReleaseDate>2013-05-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2731d97ca7376f835055f828139</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>337560</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/df572a412d8737b2579169fd8b58786a8c8f2f2d?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>76</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:22:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:5W3cjX2J3tjhG8zb6u0qHn</TrackURI>
+    <TrackName>Harder, Better, Faster, Stronger</TrackName>
+    <ArtistURIs>spotify:artist:4tZwfgrHOc3mvqYlEYSvVi</ArtistURIs>
+    <ArtistNames>Daft Punk</ArtistNames>
+    <AlbumURI>spotify:album:2noRn2Aes5aoNVsU6iWThc</AlbumURI>
+    <AlbumName>Discovery</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4tZwfgrHOc3mvqYlEYSvVi</AlbumArtistURIs>
+    <AlbumArtistNames>Daft Punk</AlbumArtistNames>
+    <AlbumReleaseDate>2001-03-12</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273b33d46dfa2635a47eebf63b2</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>4</TrackNumber>
+    <TrackDuration>224693</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/a742fa1962d60094bf86dbcbf6b66d463f67fea9?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>72</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:22:04Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0KM2y796j63t5RHhvRUxld</TrackURI>
+    <TrackName>Relax, Take It Easy</TrackName>
+    <ArtistURIs>spotify:artist:5MmVJVhhYKQ86izuGHzJYA</ArtistURIs>
+    <ArtistNames>MIKA</ArtistNames>
+    <AlbumURI>spotify:album:6oIaXBTIZ2Q9cJKBgrZ2Ox</AlbumURI>
+    <AlbumName>Life In Cartoon Motion</AlbumName>
+    <AlbumArtistURIs>spotify:artist:5MmVJVhhYKQ86izuGHzJYA</AlbumArtistURIs>
+    <AlbumArtistNames>MIKA</AlbumArtistNames>
+    <AlbumReleaseDate>2006-01-01</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2733408a925e0bcb7940f864a0e</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>270000</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/922e848fbf281de7f59561ebf33f6f3160def283?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>67</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:22:20Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:2NjhV99ncY4A5lSkTHvTtU</TrackURI>
+    <TrackName>Lollipop</TrackName>
+    <ArtistURIs>spotify:artist:5MmVJVhhYKQ86izuGHzJYA</ArtistURIs>
+    <ArtistNames>MIKA</ArtistNames>
+    <AlbumURI>spotify:album:6oIaXBTIZ2Q9cJKBgrZ2Ox</AlbumURI>
+    <AlbumName>Life In Cartoon Motion</AlbumName>
+    <AlbumArtistURIs>spotify:artist:5MmVJVhhYKQ86izuGHzJYA</AlbumArtistURIs>
+    <AlbumArtistNames>MIKA</AlbumArtistNames>
+    <AlbumReleaseDate>2006-01-01</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2733408a925e0bcb7940f864a0e</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>183533</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/57774db26053f8855fc2ba40aabc2f056c9c9d7f?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>59</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:22:20Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7N3PAbqfTjSEU1edb2tY8j</TrackURI>
+    <TrackName>Jump - 2015 Remaster</TrackName>
+    <ArtistURIs>spotify:artist:2cnMpRsOVqtPMfq7YiFE6K</ArtistURIs>
+    <ArtistNames>Van Halen</ArtistNames>
+    <AlbumURI>spotify:album:3REUXdj5OPKhuDTrTtCBU0</AlbumURI>
+    <AlbumName>1984 (Remastered)</AlbumName>
+    <AlbumArtistURIs>spotify:artist:2cnMpRsOVqtPMfq7YiFE6K</AlbumArtistURIs>
+    <AlbumArtistNames>Van Halen</AlbumArtistNames>
+    <AlbumReleaseDate>1984-01-04</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>241599</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/c8d2ba0c5a4233da4b71174fef8d628be0cacddf?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>78</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T11:22:34Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:1FTSo4v6BOZH9QxKc3MbVM</TrackURI>
+    <TrackName>Song 2 - 2012 Remaster</TrackName>
+    <ArtistURIs>spotify:artist:7MhMgCo0Bl0Kukl93PZbYS</ArtistURIs>
+    <ArtistNames>Blur</ArtistNames>
+    <AlbumURI>spotify:album:7HvIrSkKGJCzd8AKyjTJ6Q</AlbumURI>
+    <AlbumName>Blur (Special Edition)</AlbumName>
+    <AlbumArtistURIs>spotify:artist:7MhMgCo0Bl0Kukl93PZbYS</AlbumArtistURIs>
+    <AlbumArtistNames>Blur</AlbumArtistNames>
+    <AlbumReleaseDate>1997-02-10</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273d99d0823b831a78b50379100</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>121160</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/183c0855e94b58dcb267e2b0721d4a3c99260acf?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>77</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-05T12:53:23Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7iL6o9tox1zgHpKUfh9vuC</TrackURI>
+    <TrackName>In Da Club</TrackName>
+    <ArtistURIs>spotify:artist:3q7HBObVc0L8jNeTe5Gofh</ArtistURIs>
+    <ArtistNames>50 Cent</ArtistNames>
+    <AlbumURI>spotify:album:5G5rgQHzdQnw32SI0WjIo5</AlbumURI>
+    <AlbumName>Get Rich Or Die Tryin&apos;</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3q7HBObVc0L8jNeTe5Gofh</AlbumArtistURIs>
+    <AlbumArtistNames>50 Cent</AlbumArtistNames>
+    <AlbumReleaseDate>2003-02-06</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>193466</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/ec7b4b02e7ef823452bc43370eb3c0a068573a85?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>80</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-06T11:30:01Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:5D2mYZuzcgjpchVY1pmTPh</TrackURI>
+    <TrackName>Candy Shop</TrackName>
+    <ArtistURIs>spotify:artist:3q7HBObVc0L8jNeTe5Gofh, spotify:artist:5YBSzuCs7WaFKNr7Bky0Uf</ArtistURIs>
+    <ArtistNames>50 Cent, Olivia</ArtistNames>
+    <AlbumURI>spotify:album:2pidzXTaHV4WaIJYRxKDCH</AlbumURI>
+    <AlbumName>The Massacre</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3q7HBObVc0L8jNeTe5Gofh</AlbumArtistURIs>
+    <AlbumArtistNames>50 Cent</AlbumArtistNames>
+    <AlbumReleaseDate>2005-03-03</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>7</TrackNumber>
+    <TrackDuration>209106</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/266a580f4d72fe71c885b862396d52ce30644c77?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>79</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-06T11:30:01Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:3G0yz3DZn3lfraledmBCT0</TrackURI>
+    <TrackName>P.I.M.P.</TrackName>
+    <ArtistURIs>spotify:artist:3q7HBObVc0L8jNeTe5Gofh</ArtistURIs>
+    <ArtistNames>50 Cent</ArtistNames>
+    <AlbumURI>spotify:album:5G5rgQHzdQnw32SI0WjIo5</AlbumURI>
+    <AlbumName>Get Rich Or Die Tryin&apos;</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3q7HBObVc0L8jNeTe5Gofh</AlbumArtistURIs>
+    <AlbumArtistNames>50 Cent</AlbumArtistNames>
+    <AlbumReleaseDate>2003-02-06</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>11</TrackNumber>
+    <TrackDuration>249480</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/61d4d303feeff9fed3c53e077f1e28e0f4b126cd?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>75</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-06T11:30:01Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:3NBwVbWQgGaeitzznzWiyI</TrackURI>
+    <TrackName>Alegria</TrackName>
+    <ArtistURIs>spotify:artist:0iF2gedsSjoVHRUh5vXSdu</ArtistURIs>
+    <ArtistNames>Cirque du Soleil</ArtistNames>
+    <AlbumURI>spotify:album:0zXyORlV3shQ6M5z0WZCh2</AlbumURI>
+    <AlbumName>Alegria</AlbumName>
+    <AlbumArtistURIs>spotify:artist:0iF2gedsSjoVHRUh5vXSdu</AlbumArtistURIs>
+    <AlbumArtistNames>Cirque du Soleil</AlbumArtistNames>
+    <AlbumReleaseDate>1994</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2739393dec8ca8f8b6ed8719c14</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>348560</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/1bdadccc3ca257bd8505e0e5e128f2dab476f1cc?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>53</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-09T17:28:06Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:2m7KdMP9MYXDlUOWD90r2A</TrackURI>
+    <TrackName>Macaulay Culkin</TrackName>
+    <ArtistURIs>spotify:artist:1JwhzFROpPDbDbstMTY7cF</ArtistURIs>
+    <ArtistNames>Ladilla Rusa</ArtistNames>
+    <AlbumURI>spotify:album:0d5Uc8WQHb1PQdEuoQSHuE</AlbumURI>
+    <AlbumName>Estado del malestar</AlbumName>
+    <AlbumArtistURIs>spotify:artist:1JwhzFROpPDbDbstMTY7cF</AlbumArtistURIs>
+    <AlbumArtistNames>Ladilla Rusa</AlbumArtistNames>
+    <AlbumReleaseDate>2018-02-23</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2733b712a05b4e08b36285765f8</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>3</TrackNumber>
+    <TrackDuration>166154</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/d4675154a217988e1890b70cb2a06795aa6f722d?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>46</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-11T12:08:47Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7o5V0BUS9x8zdXMb2CiGpi</TrackURI>
+    <TrackName>El Señor de la Noche</TrackName>
+    <ArtistURIs>spotify:artist:33ScadVnbm2X8kkUqOkC6Z</ArtistURIs>
+    <ArtistNames>Don Omar</ArtistNames>
+    <AlbumURI>spotify:album:4nI76Sl2eV1US9PFAqHrSg</AlbumURI>
+    <AlbumName>El Señor de la Noche</AlbumName>
+    <AlbumArtistURIs>spotify:artist:33ScadVnbm2X8kkUqOkC6Z</AlbumArtistURIs>
+    <AlbumArtistNames>Don Omar</AlbumArtistNames>
+    <AlbumReleaseDate>2006-11-21</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273d41a0f3711691ee78b9f6133</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>204174</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/d020d38b4ffece950198ebd183145599e7195078?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>56</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-11T12:08:47Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:6ekCBoRDPEpNx6Sg5o9C1z</TrackURI>
+    <TrackName>Crîtto de lâ Nabahâ</TrackName>
+    <ArtistURIs>spotify:artist:6APnwoSgygJU8HR7EHVSyK</ArtistURIs>
+    <ArtistNames>Califato ¾</ArtistNames>
+    <AlbumURI>spotify:album:5VjrN9E9tdamrLfgPEyyoD</AlbumURI>
+    <AlbumName>Puerta de la Cânne</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6APnwoSgygJU8HR7EHVSyK</AlbumArtistURIs>
+    <AlbumArtistNames>Califato ¾</AlbumArtistNames>
+    <AlbumReleaseDate>2019-12-04</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2735e820ee950c6b335815ade71</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>227000</TrackDuration>
+    <TrackPreviewURL></TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>0</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-11T12:08:47Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:3fDPalBAY0MzPaAm0a3NpL</TrackURI>
+    <TrackName>Los Coches Chocones</TrackName>
+    <ArtistURIs>spotify:artist:3vYNaAhbefoQUhDu0VoyfT</ArtistURIs>
+    <ArtistNames>Los Desgraciaus</ArtistNames>
+    <AlbumURI>spotify:album:1BVQZdqoeHN033NkQNf1jh</AlbumURI>
+    <AlbumName>Los Coches Chocones</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3vYNaAhbefoQUhDu0VoyfT</AlbumArtistURIs>
+    <AlbumArtistNames>Los Desgraciaus</AlbumArtistNames>
+    <AlbumReleaseDate>2013-11-04</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273bf36bbf41a9b68a2bc00f570</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>280906</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/021f20655a8fad319af3dcf3466455ee20dacb2f?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>42</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-11T12:08:47Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:09AitOsHz0VArhXmVOl4ip</TrackURI>
+    <TrackName>KITT y los coches del pasado</TrackName>
+    <ArtistURIs>spotify:artist:1JwhzFROpPDbDbstMTY7cF, spotify:artist:5PgFxKraqTJUjncc2f3gFB, spotify:artist:397thZD98rAlhyqIQJvBjx, spotify:artist:5KDqVW0Fh2QvESyT32n8Jx, spotify:artist:111HTVEie3XPN4ooluaVXq</ArtistURIs>
+    <ArtistNames>Ladilla Rusa, Joan Colomo, Los Ganglios, Laura Santos, Lady Gipsy</ArtistNames>
+    <AlbumURI>spotify:album:6gNoCOSD3VN7zjX83uFqSe</AlbumURI>
+    <AlbumName>KITT y los coches del pasado</AlbumName>
+    <AlbumArtistURIs>spotify:artist:1JwhzFROpPDbDbstMTY7cF</AlbumArtistURIs>
+    <AlbumArtistNames>Ladilla Rusa</AlbumArtistNames>
+    <AlbumReleaseDate>2019-03-29</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273ccb4e9a3e67183b876269141</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>250411</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/e786e43077f89e9a08bf1aa6c633a4a28e0532f6?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>50</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-11T12:08:47Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:4bKPR5DH3o3v1FSniZiYEL</TrackURI>
+    <TrackName>Yoni el Robot</TrackName>
+    <ArtistURIs>spotify:artist:1LtOyg9h0sJidHIFXLaICB, spotify:artist:1ZLKV2uVGMytMpDw24stJj</ArtistURIs>
+    <ArtistNames>Narco, Space Surimi</ArtistNames>
+    <AlbumURI>spotify:album:2y8FeB9s3eucYh90hQTjCR</AlbumURI>
+    <AlbumName>Espichufrenia</AlbumName>
+    <AlbumArtistURIs>spotify:artist:1LtOyg9h0sJidHIFXLaICB</AlbumArtistURIs>
+    <AlbumArtistNames>Narco</AlbumArtistNames>
+    <AlbumReleaseDate>2017-12-15</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273530cdcf90b9cb9689cd9e78c</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>9</TrackNumber>
+    <TrackDuration>277333</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/be433e616000b18b6ab37aec7eff6a16cafc36a4?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>36</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-11T12:08:47Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:2rqZhKrPKD4EvnXpu56Kow</TrackURI>
+    <TrackName>In My Heart</TrackName>
+    <ArtistURIs>spotify:artist:3OsRAKCvk37zwYcnzRf5XF</ArtistURIs>
+    <ArtistNames>Moby</ArtistNames>
+    <AlbumURI>spotify:album:4nNRmcno83xJnzFWl8uYyJ</AlbumURI>
+    <AlbumName>18</AlbumName>
+    <AlbumArtistURIs>spotify:artist:3OsRAKCvk37zwYcnzRf5XF</AlbumArtistURIs>
+    <AlbumArtistNames>Moby</AlbumArtistNames>
+    <AlbumReleaseDate>2002-05-13</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27384ddf84bc3c45781554b7f65</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>3</TrackNumber>
+    <TrackDuration>276693</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/7ce517ba0add18269508ba4895587604d545fe04?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>49</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-12T17:09:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:3Z9PJ6xiEGmcqo2hESEB5n</TrackURI>
+    <TrackName>Bitter Sweet Symphony</TrackName>
+    <ArtistURIs>spotify:artist:2cGwlqi3k18jFpUyTrsR84</ArtistURIs>
+    <ArtistNames>The Verve</ArtistNames>
+    <AlbumURI>spotify:album:5aY2ZGwROKS4QU5QDW3SqD</AlbumURI>
+    <AlbumName>Urban Hymns (Deluxe / Remastered 2016)</AlbumName>
+    <AlbumArtistURIs>spotify:artist:2cGwlqi3k18jFpUyTrsR84</AlbumArtistURIs>
+    <AlbumArtistNames>The Verve</AlbumArtistNames>
+    <AlbumReleaseDate>1997-09-29</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b2737600476c7e8c3142997ca6ce</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>357266</TrackDuration>
+    <TrackPreviewURL></TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>0</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-12T17:09:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0vg4WnUWvze6pBOJDTq99k</TrackURI>
+    <TrackName>You&apos;re Beautiful</TrackName>
+    <ArtistURIs>spotify:artist:7KMqksf0UMdyA0UCf4R3ux</ArtistURIs>
+    <ArtistNames>James Blunt</ArtistNames>
+    <AlbumURI>spotify:album:1ekaxA9Q5GzUPCepx4wzMF</AlbumURI>
+    <AlbumName>Back to Bedlam</AlbumName>
+    <AlbumArtistURIs>spotify:artist:7KMqksf0UMdyA0UCf4R3ux</AlbumArtistURIs>
+    <AlbumArtistNames>James Blunt</AlbumArtistNames>
+    <AlbumReleaseDate>2005-08-08</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273105f043a4f470cf58cc01ccf</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>209493</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/1e9fe4947493daddd30a02f8e7b920eb413ce065?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>77</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-12T17:09:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:30Gd3snWllczPbz2Gd0JMe</TrackURI>
+    <TrackName>Like Toy Soldiers</TrackName>
+    <ArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</ArtistURIs>
+    <ArtistNames>Eminem</ArtistNames>
+    <AlbumURI>spotify:album:4F1k3oxk5iTQKenjkBpDe4</AlbumURI>
+    <AlbumName>Encore</AlbumName>
+    <AlbumArtistURIs>spotify:artist:7dGJo4pcD2V6oG8kP0tJRR</AlbumArtistURIs>
+    <AlbumArtistNames>Eminem</AlbumArtistNames>
+    <AlbumReleaseDate>2004-11-12</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273edc3b754981904bae77321f9</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>296880</TrackDuration>
+    <TrackPreviewURL></TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>0</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-12T17:09:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0BCPKOYdS2jbQ8iyB56Zns</TrackURI>
+    <TrackName>Clocks</TrackName>
+    <ArtistURIs>spotify:artist:4gzpq5DPGxSnKTe4SA8HAU</ArtistURIs>
+    <ArtistNames>Coldplay</ArtistNames>
+    <AlbumURI>spotify:album:0RHX9XECH8IVI3LNgWDpmQ</AlbumURI>
+    <AlbumName>A Rush of Blood to the Head</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4gzpq5DPGxSnKTe4SA8HAU</AlbumArtistURIs>
+    <AlbumArtistNames>Coldplay</AlbumArtistNames>
+    <AlbumReleaseDate>2002-08-08</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b27390afd8e4ec6d787114ed6c40</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>307879</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/77d0dd7e02ca1de794143b6034d86df6243328b9?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>77</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-12T17:09:24Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:0Ja4hLKiUSw01E01pJ1yGr</TrackURI>
+    <TrackName>Breathe</TrackName>
+    <ArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</ArtistURIs>
+    <ArtistNames>The Prodigy</ArtistNames>
+    <AlbumURI>spotify:album:4fdgcEVMdJe0KVgupMNJAP</AlbumURI>
+    <AlbumName>The Fat of the Land</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</AlbumArtistURIs>
+    <AlbumArtistNames>The Prodigy</AlbumArtistNames>
+    <AlbumReleaseDate>1997-06-30</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273fa0b74121608a007af87a3fe</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>336280</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/e47d0d04d2105337efb7470e4d17c1a80235c6c7?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>65</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-16T10:43:21Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:79CUrU5o2KAVDTNm4x3eGU</TrackURI>
+    <TrackName>Firestarter</TrackName>
+    <ArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</ArtistURIs>
+    <ArtistNames>The Prodigy</ArtistNames>
+    <AlbumURI>spotify:album:4fdgcEVMdJe0KVgupMNJAP</AlbumURI>
+    <AlbumName>The Fat of the Land</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</AlbumArtistURIs>
+    <AlbumArtistNames>The Prodigy</AlbumArtistNames>
+    <AlbumReleaseDate>1997-06-30</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273fa0b74121608a007af87a3fe</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>8</TrackNumber>
+    <TrackDuration>279800</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/3bb0098428992290d3586befe494b7f2756803c2?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>64</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-16T10:43:21Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7C0PzxbsQx59DgGVRsquwJ</TrackURI>
+    <TrackName>Voodoo People - Pendulum Mix</TrackName>
+    <ArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB, spotify:artist:7MqnCTCAX6SsIYYdJCQj9B</ArtistURIs>
+    <ArtistNames>The Prodigy, Pendulum</ArtistNames>
+    <AlbumURI>spotify:album:0aZZ90ZakcGFzFiBMKHrCy</AlbumURI>
+    <AlbumName>Their Law The Singles 1990 - 2005</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</AlbumArtistURIs>
+    <AlbumArtistNames>The Prodigy</AlbumArtistNames>
+    <AlbumReleaseDate>2005-10-17</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273d334e6c982975b358e22d4bb</AlbumImageURL>
+    <DiscNumber>2</DiscNumber>
+    <TrackNumber>3</TrackNumber>
+    <TrackDuration>307813</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/94051df262d9c93b6ed8de966d1a38af0b3c6aa2?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>64</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-16T10:43:21Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:48vDCZIRmrFO33fH4QU4ij</TrackURI>
+    <TrackName>Smack My Bitch Up</TrackName>
+    <ArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</ArtistURIs>
+    <ArtistNames>The Prodigy</ArtistNames>
+    <AlbumURI>spotify:album:4fdgcEVMdJe0KVgupMNJAP</AlbumURI>
+    <AlbumName>The Fat of the Land</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</AlbumArtistURIs>
+    <AlbumArtistNames>The Prodigy</AlbumArtistNames>
+    <AlbumReleaseDate>1997-06-30</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273fa0b74121608a007af87a3fe</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>343386</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/4710f55bd5459c922b2c5a771992c066c286ebc8?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>true</Explicit>
+    <Popularity>63</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-16T10:43:21Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:144adL7pGHEWRwute2wxzZ</TrackURI>
+    <TrackName>Omen</TrackName>
+    <ArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</ArtistURIs>
+    <ArtistNames>The Prodigy</ArtistNames>
+    <AlbumURI>spotify:album:13PiGMs22YuX1kq7w8WNGM</AlbumURI>
+    <AlbumName>Invaders Must Die</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</AlbumArtistURIs>
+    <AlbumArtistNames>The Prodigy</AlbumArtistNames>
+    <AlbumReleaseDate>2009-02-23</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273bce53a924b756cbaf8aa245c</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>2</TrackNumber>
+    <TrackDuration>216026</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/6ff97eec1f1579a768a35287a55c24b634636847?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>59</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-16T10:43:37Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:7H0MOWplwc6gf2AD1vTSYi</TrackURI>
+    <TrackName>Voodoo People</TrackName>
+    <ArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</ArtistURIs>
+    <ArtistNames>The Prodigy</ArtistNames>
+    <AlbumURI>spotify:album:4qhJwKBr2ksxAUFjfJd3rb</AlbumURI>
+    <AlbumName>Music for the Jilted Generation</AlbumName>
+    <AlbumArtistURIs>spotify:artist:4k1ELeJKT1ISyDv8JivPpB</AlbumArtistURIs>
+    <AlbumArtistNames>The Prodigy</AlbumArtistNames>
+    <AlbumReleaseDate>1994-04-04</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273c0f16d3c653999907e74e5ba</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>387066</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/804ca34d8978e1374445714f0a37183eeda70b24?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>56</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-16T10:43:37Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:6AbVJjzv7thIvmMCuhZrmK</TrackURI>
+    <TrackName>Make It Bun Dem</TrackName>
+    <ArtistURIs>spotify:artist:5he5w2lnU9x7JFhnwcekXX, spotify:artist:3QJzdZJYIAcoET1GcfpNGi</ArtistURIs>
+    <ArtistNames>Skrillex, Damian Marley</ArtistNames>
+    <AlbumURI>spotify:album:381oom8nio77eU6BuUb4UO</AlbumURI>
+    <AlbumName>Make It Bun Dem</AlbumName>
+    <AlbumArtistURIs>spotify:artist:5he5w2lnU9x7JFhnwcekXX, spotify:artist:3QJzdZJYIAcoET1GcfpNGi</AlbumArtistURIs>
+    <AlbumArtistNames>Skrillex, Damian Marley</AlbumArtistNames>
+    <AlbumReleaseDate>2012-05-01</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273599d75148c77c356edd9ea6f</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>1</TrackNumber>
+    <TrackDuration>213696</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/6c5a8c709156eaa212b319d915d9b1c3a3505d90?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>65</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-16T12:20:31Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:5ygN6qPPX3s1hL8foIkEWN</TrackURI>
+    <TrackName>Niña Piensa en Tí</TrackName>
+    <ArtistURIs>spotify:artist:2Sc124nCfeuUlQ0TxAJZ8O</ArtistURIs>
+    <ArtistNames>Los Caños</ArtistNames>
+    <AlbumURI>spotify:album:0Y9COm6wiDNQUYLau3EuBj</AlbumURI>
+    <AlbumName>Los Caños</AlbumName>
+    <AlbumArtistURIs>spotify:artist:2Sc124nCfeuUlQ0TxAJZ8O</AlbumArtistURIs>
+    <AlbumArtistNames>Los Caños</AlbumArtistNames>
+    <AlbumReleaseDate>2000-01-25</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273ca0ceb89ada14ab232fbf978</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>5</TrackNumber>
+    <TrackDuration>220573</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/bcb41c9c13451aaae673a0b97ae21925bcabfffd?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>44</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-20T15:11:54Z</AddedAt>
+  </track>
+  <track>
+    <TrackURI>spotify:track:1a8JpAL3vbAdXYrEABvOtb</TrackURI>
+    <TrackName>AMERIKA</TrackName>
+    <ArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</ArtistURIs>
+    <ArtistNames>Rammstein</ArtistNames>
+    <AlbumURI>spotify:album:74ydDCcXTco741y42ceRJ5</AlbumURI>
+    <AlbumName>REISE, REISE</AlbumName>
+    <AlbumArtistURIs>spotify:artist:6wWVKhxIU2cEi0K81v7HvP</AlbumArtistURIs>
+    <AlbumArtistNames>Rammstein</AlbumArtistNames>
+    <AlbumReleaseDate>2004-09-27</AlbumReleaseDate>
+    <AlbumImageURL>https://i.scdn.co/image/ab67616d0000b273cbe7573e1175f842e24b34c2</AlbumImageURL>
+    <DiscNumber>1</DiscNumber>
+    <TrackNumber>6</TrackNumber>
+    <TrackDuration>226760</TrackDuration>
+    <TrackPreviewURL>https://p.scdn.co/mp3-preview/3a460e8ddb78d030079273b873c7e1c073c2b4af?cid=9950ac751e34487dbbe027c4fd7f8e99</TrackPreviewURL>
+    <Explicit>false</Explicit>
+    <Popularity>66</Popularity>
+    <AddedBy>spotify:user:juananDAM</AddedBy>
+    <AddedAt>2021-11-20T15:31:34Z</AddedAt>
+  </track>
+</festival2DAM>
